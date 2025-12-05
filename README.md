@@ -1,11 +1,20 @@
-
-README.md
-
-````markdown
  Getting Started with the HuggingFace API
 
 This repository provides a simple, beginner-friendly introduction to using the **HuggingFace Inference API**.  
 It includes a Jupyter Notebook that walks through how to authenticate, send requests, and work with popular HuggingFace models for tasks such as text generation, sentiment analysis, embeddings, and more.
+
+---
+
+
+
+ 🚀 Getting Started
+
+ 1. Clone the Repository
+```bash
+git clone https://github.com/yourusername/your-repo-name.git
+cd your-repo-name
+
+
 
 
  📘 Contents
