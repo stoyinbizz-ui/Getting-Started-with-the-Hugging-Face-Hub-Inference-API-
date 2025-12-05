@@ -1,15 +1,14 @@
 
-## **README.md**
+README.md
 
 ````markdown
-# Getting Started with the HuggingFace API
+ Getting Started with the HuggingFace API
 
 This repository provides a simple, beginner-friendly introduction to using the **HuggingFace Inference API**.  
 It includes a Jupyter Notebook that walks through how to authenticate, send requests, and work with popular HuggingFace models for tasks such as text generation, sentiment analysis, embeddings, and more.
 
----
 
-## 📘 Contents
+ 📘 Contents
 
 - **Getting_Started_with_the_HuggingFace_API.ipynb**  
   A step-by-step notebook demonstrating:
@@ -20,15 +19,15 @@ It includes a Jupyter Notebook that walks through how to authenticate, send requ
 
 ---
 
-## 🚀 Getting Started
+ 🚀 Getting Started
 
-### 1. Clone the Repository
+ 1. Clone the Repository
 ```bash
 git clone https://github.com/yourusername/your-repo-name.git
 cd your-repo-name
 ````
 
-### 2. Install Dependencies
+ 2. Install Dependencies
 
 Make sure you have Python 3.8+ installed.
 
@@ -44,7 +43,7 @@ Typical dependencies may include:
 
 (Adjust based on your environment.)
 
-### 3. Add Your HuggingFace API Token
+ 3. Add Your HuggingFace API Token
 
 Create a `.env` file in the project root:
 
@@ -54,7 +53,7 @@ HF_API_TOKEN=your_token_here
 
 Or set it manually in your environment.
 
-### 4. Run the Notebook
+ 4. Run the Notebook
 
 ```bash
 jupyter notebook
@@ -64,7 +63,7 @@ Open **Getting_Started_with_the_HuggingFace_API.ipynb** and start exploring.
 
 ---
 
-## 🧠 What You Will Learn
+ 🧠 What You Will Learn
 
 * How the HuggingFace Inference API works
 * Best practices for sending API requests
@@ -73,7 +72,7 @@ Open **Getting_Started_with_the_HuggingFace_API.ipynb** and start exploring.
 
 ---
 
-## 📄 Requirements File
+ 📄 Requirements File
 
 If your project doesn't already include a `requirements.txt`, you can create one like this:
 
@@ -85,14 +84,14 @@ jupyter
 
 ---
 
-## 🤝 Contributing
+ 🤝 Contributing
 
 Pull requests are welcome!
 If you have suggestions for improvements, feel free to open an issue.
 
 ---
 
-## 📜 License
+ 📜 License
 
 This project is released under the MIT License.
 (Replace or remove if you're using a different license.)
